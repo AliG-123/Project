@@ -1,2 +1,4 @@
-package view;public class AGView {
+package view;
+
+public class AGView {
 }

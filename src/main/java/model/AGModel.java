@@ -1,2 +1,4 @@
-package model;public class AGModel {
+package model;
+
+public class AGModel {
 }
